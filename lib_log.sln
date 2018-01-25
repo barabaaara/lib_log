@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_log", "lib_log\lib_log.csproj", "{7F317B07-6D07-495E-8FF8-085F43074C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F317B07-6D07-495E-8FF8-085F43074C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F317B07-6D07-495E-8FF8-085F43074C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F317B07-6D07-495E-8FF8-085F43074C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F317B07-6D07-495E-8FF8-085F43074C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55F3B495-465B-49B9-AB1B-1B6C13F925C0}
+	EndGlobalSection
+EndGlobal
