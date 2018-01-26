@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <LogFilePath>C:\work\</LogFilePath>
+  <BaseFileName>test</BaseFileName>
+  <IsAppend>true</IsAppend>
+  <Severity>0</Severity>
+  <MaxFileSize>1500000</MaxFileSize>
+  <IsAutoFlush>true</IsAutoFlush>
+</Setting>
